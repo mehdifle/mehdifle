@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mehdifle
 - 👀 I’m interested in Java and Angular
-- 🌱 I’m currently learning BlockChain
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 You can reach me at: mehdi.falegari@gmail.com
 
